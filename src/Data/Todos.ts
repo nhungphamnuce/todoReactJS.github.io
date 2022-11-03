@@ -13,7 +13,7 @@ export const todos = [
         name: 'learning c++',
         start_date: new Date('11/02/2002'),
         end_date: new Date('11/02/2002'),
-        status: 'Done',
+        status: 'Fail',
     }),
     createData({
         name: 'learning opp',
@@ -25,13 +25,13 @@ export const todos = [
         name: 'learning 1',
         start_date: new Date('11/02/2002'),
         end_date: new Date('11/02/2002'),
-        status: 'Done',
+        status: 'Doing',
     }),
     createData({
         name: 'learning 2',
         start_date: new Date('11/02/2002'),
         end_date: new Date('11/02/2002'),
-        status: 'Done',
+        status: 'Fail',
     }),
     createData({
         name: 'learning 3',
@@ -49,7 +49,7 @@ export const todos = [
         name: 'learning 5',
         start_date: new Date('11/02/2002'),
         end_date: new Date('11/02/2002'),
-        status: 'Done',
+        status: 'Doing',
     }),
     createData({
         name: 'learning 6',
